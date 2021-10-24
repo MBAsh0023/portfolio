@@ -1,0 +1,44 @@
+
+
+header, footer {
+  background: royalblue;
+  color: lightgray;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 30px
+}
+
+header {
+  border-bottom-color: gray
+}
+
+
+main {
+  background:linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  color: rgb(92, 86, 86);
+  padding: 10px;
+  margin-left: 10px
+}
+
+img {
+  height: 400px;
+  float: left;
+  padding:20px ;
+}
+
+
+h1,h2,h3 {
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+margin-bottom: 0px;
+margin-top: 0px;
+}
+
+p,li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+  a:hover {
+   color: palevioletred;
+   font-family: 'Times New Roman', Times, serif
+  }
